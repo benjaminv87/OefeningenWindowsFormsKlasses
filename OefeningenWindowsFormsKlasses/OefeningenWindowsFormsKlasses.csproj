@@ -96,6 +96,9 @@
     <EmbeddedResource Include="Oefening3.resx">
       <DependentUpon>Oefening3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Oefening4.resx">
+      <DependentUpon>Oefening4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
